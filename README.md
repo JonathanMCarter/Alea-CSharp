@@ -21,5 +21,4 @@ var alea = new Alea("MySeed");
 var randomNumber = alea.Random();
 ```
 ## Licence
-<br><br>
 MIT Licence
